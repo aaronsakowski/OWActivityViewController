@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com', 'Brant Young' => 'brant.young@gmail.com' }
   s.homepage    = 'https://github.com/aaronsakowski/OWActivityViewController.git'
   s.summary     = 'Open source alternative to UIActivityViewController, highly customizable and compatible with iOS 5.0.'
-  s.source      = { :git => 'https://github.com/aaronsakowski/OWActivityViewController.git }
+  s.source      = { :git => 'https://github.com/aaronsakowski/OWActivityViewController.git' }
   s.license     = { :type => "MIT", :file => "LICENSE" }
 
   s.platform = :ios, '5.0'
